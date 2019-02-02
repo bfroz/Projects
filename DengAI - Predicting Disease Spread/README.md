@@ -2,6 +2,8 @@
 
 This project is a challenge from [Driven Data](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/).
 
+The current status: **Ongoing...**
+
 ## Overview
 
 ### Can you predict local epidemics of dengue fever?
