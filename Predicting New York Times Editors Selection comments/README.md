@@ -16,6 +16,8 @@ Finally, the results are discussed, and some future works are recommended.
 
 >Some codes and ideas were inspired by [Aashita Kesarwani Predicting NYT's pick notebook](https://www.kaggle.com/aashita/predicting-nyt-s-pick/notebook)
 
+Click [here](https://github.com/bfroz/Projects/blob/master/Predicting%20New%20York%20Times%20Editors%20Selection%20comments/Predicting%20New%20York%20Times%20Editors%20Selection%20comments%20using%20NLP%20and%20Gradient%20Boost.ipynb) to check the full project.
+
 ### Results
 
 The XGBoost results:
