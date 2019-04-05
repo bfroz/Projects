@@ -1,4 +1,4 @@
-# Predicting New York Times "Editor's Selection" comments
+# Predicting New York Times "Editor's Selection" comments using NLP and Gradient Boosting
 
 The current status: **Finished**
 
