@@ -10,7 +10,7 @@ The imported dataset contains data from January 2017 until May 2017 and from Jan
 
 The feature **commentBody** represents the comment itself. I separated it and processed the text using **NLP** technique **Bag-of-words**.
 
-For the classification, the **Gradient Boosting** Machine Learning algorithm is compared with **SVM** and **Naive Bayes** and tunned with **Grid Search**. Three measures are analyzed: **Accuracy, AUROC, and F1-Score**.
+For the classification, the **Gradient Boosting** Machine Learning algorithm is compared with **SVM** and **Naive Bayes** and tuned with **Grid Search**. Three measures are analyzed: **Accuracy, AUROC, and F1-Score**.
 
 Finally, the results are discussed, and some future works are recommended.
 
